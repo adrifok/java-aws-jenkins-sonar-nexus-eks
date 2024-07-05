@@ -5,6 +5,9 @@ target/
 !**/src/test/**/target/
 .pdf
 *.md
+*.txt
+*.csv
+
 
 ### STS ###
 .apt_generated
